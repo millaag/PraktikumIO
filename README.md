@@ -57,6 +57,7 @@ Menyalin file gambar.png menjadi salinan.png.
 Pastikan file gambar.png ada di folder project root.
 Jika argumen tidak diberikan, program akan menampilkan:
 Usage: java LatihanD <gambar> <salinan>
+```
 
 Catatan:
 - Semua latihan menggunakan try-with-resources untuk menutup file/stream otomatis.
