@@ -32,7 +32,7 @@ PraktikumIOProject/
 ## Cara Compile & Run
 
 ### Latihan A
-```bash
+```
 javac -d . src/praktikumio/LatihanA.java
 java praktikumio.LatihanA
 Input: dua angka integer.
