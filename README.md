@@ -1,7 +1,7 @@
 # Praktikum I/O Java - Latihan A-D
 
 ## Deskripsi
-Project ini berisi latihan **Input/Output (I/O)** menggunakan Java, mencakup empat latihan dari mudah hingga menengah:
+Project ini berisi latihan **Input/Output (I/O)** menggunakan Java, mencakup empat latihan:
 
 | Latihan | Deskripsi |
 |---------|-----------|
@@ -32,7 +32,7 @@ PraktikumIOProject/
 ## Cara Compile & Run
 
 ### Latihan A
-```
+```bash
 javac -d . src/praktikumio/LatihanA.java
 java praktikumio.LatihanA
 Input: dua angka integer.
