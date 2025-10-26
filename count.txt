@@ -1,0 +1,3 @@
+saya: 1
+masih: 1
+belajar: 1
