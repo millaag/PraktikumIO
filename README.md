@@ -13,7 +13,7 @@ Project ini berisi latihan **Input/Output (I/O)** menggunakan Java, mencakup emp
 Semua latihan berada dalam **package `praktikumio`**.
 
 ---
-
+```
 ## Struktur Project
 PraktikumIOProject/
 │
@@ -31,7 +31,8 @@ PraktikumIOProject/
 
 ## Cara Compile & Run
 
-Latihan A
+### Latihan A
+```bash
 javac -d . src/praktikumio/LatihanA.java
 java praktikumio.LatihanA
 Input: dua angka integer.
@@ -60,7 +61,8 @@ Usage: java LatihanD <gambar> <salinan>
 Catatan:
 - Semua latihan menggunakan try-with-resources untuk menutup file/stream otomatis.
 - Charset file teks: UTF-8.
-- Jangan lupa menyesuaikan path file jika file sumber berada di folder berbeda.
+- Path file harus sesuai.
+- Latihan D butuh argumen `gambar.png salinan.png`.  
 
 Author
 Nama: Milla Agustin
